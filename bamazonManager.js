@@ -14,5 +14,7 @@ connection.connect(function(err) {
 })
 
 function changeProduct(){
-	
+// 	products = 	[Coffee, Chocolate, Eggs, Cheese, Orange Juice, Dish Soap, 
+// Ice Cream, Mint, Limes, Pens]
+// products.push(); 
 }
