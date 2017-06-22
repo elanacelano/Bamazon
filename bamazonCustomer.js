@@ -9,6 +9,7 @@ var connection = mysql.createConnection({
 	password: "",
 	database: "bamazonDB",
 }),
+// var colors = require('colors');
  // they are going to buy ten items; 
 	 // Coffee, 
 	 // Chocolate, 
